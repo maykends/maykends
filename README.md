@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 # Mayke Kend :man_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykend/)](https://www.linkedin.com/in/jrmarcelo/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCr_2Aj4SMJtj3UjFr5sLqTg)](https://www.youtube.com/user/marcelorde391/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykend/)](https://www.linkedin.com/in/maykend/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCr_2Aj4SMJtj3UjFr5sLqTg)](https://www.youtube.com/channel/UCr_2Aj4SMJtj3UjFr5sLqTg)
 
 ### Hellooo! 👋 Welcome to my profile
 
