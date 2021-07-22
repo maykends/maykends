@@ -27,3 +27,7 @@ My name is Mayke and ...:
  - 📊 I really like python
  - 📚 Currently studying IA using Python
  - 🌍 Want to reach the world!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
+
