@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 My name is Mayke and ...:
 
- - ➜ I really like to learn
- - ➜ I really like python
- - ➜ Currently studying IA using Python
- - ➜ Want to reach the world!
+ - ➜ **I really like to learn**
+ - ➜  🐍 I really like **Python**
+ - ➜ Currently studying **IA** using **Python**
+ - ➜  🌎 Want to reach the world!
 
  <div>
   <a href="https://github.com/maykends/">
