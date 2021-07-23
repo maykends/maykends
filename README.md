@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykend/)](https://www.linkedin.com/in/maykend/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCr_2Aj4SMJtj3UjFr5sLqTg)](https://www.youtube.com/channel/UCr_2Aj4SMJtj3UjFr5sLqTg)
 
-### Hellooo! 👋 Welcome to my profile
+### Hellooo! 👋 Welcome to my profile 
 
-My name is Mayke and ...:
+My name is Mayke Kend and ...:
 
  - ➜ **I really like to learn**
  - ➜  🐍 I really like **Python**
@@ -38,8 +38,6 @@ My name is Mayke and ...:
   <img align="center" alt="maykends-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="maykends-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="maykends-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-
  <!-- <img align="right" alt="Rafa-yoda" height="180em"   src="https://24.media.tumblr.com/tumblr_lu3yzmQcW81qd7m1so1_500.gif"> -->
 </div> 
   
