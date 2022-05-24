@@ -1,51 +1,46 @@
-<!--
-### Hi there 👋
-**maykends/maykends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-# Mayke Kend
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maykend/)](https://www.linkedin.com/in/maykend/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCr_2Aj4SMJtj3UjFr5sLqTg)](https://www.youtube.com/channel/UCr_2Aj4SMJtj3UjFr5sLqTg)
-
-### Hellooo! 👋 Welcome to my profile 
-
-My name is Mayke Kend and ...:
-
- - ➜ **I really like to learn**
- - ➜  🐍 I really like **Python**
- - ➜ Currently studying **IA** using **Python**
- - ➜  🌎 Want to reach the world!
-
- <div>
-  <a href="https://github.com/maykends/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maykends&show_icons=true&theme=anuraghazra&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykends&layout=compact&langs_count=7&theme=anuraghazra"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="maykends-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="maykends-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="maykends-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="maykends-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <!-- <img align="right" alt="Rafa-yoda" height="180em"   src="https://24.media.tumblr.com/tumblr_lu3yzmQcW81qd7m1so1_500.gif"> -->
-</div> 
-  
-<div> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+ 
+ ### :round_pushpin: Campina Grande, Brasil
+
+### Atualmente estudante na área de Data Science, onde me tornei um entusiasta. Sempre a procura de mais conhecimento sobre a área.
+
+## **Portfólio Data Science**
+
+- [ML - Credit Scoring (Regressão Logística)](https://github.com/RailanDeivid/Machine_Learning_Credit_Scoring.git)
+- [Regressão Linear - ECommerce](https://github.com/RailanDeivid/Regressao_linear_Projeto_Ecomerce.git)
+- [Prevendo a renda de estudantes usando o algoritmo KNN (K-Nearest Neighbors)](https://github.com/RailanDeivid/Prevendo_renda_estudantes_Machine-Learning_KNN.git)
+- [EDA e Dataviz E-Commerce Brasileiro (Olist)](https://github.com/RailanDeivid/EDA_ecommerce_olist_brazil.git)
+- [Previsões de série temporal: COVID-19](https://github.com/RailanDeivid/Previsoes_serie_temporal_COVID-19.git)
+- [Mapa de Roubo de Carros no Estado de SP](https://github.com/RailanDeivid/Map_Roubo_de_Carro_SP.git)
+- [Analisando os Dados de Reclamações do Consumidor Brasileiro](https://github.com/RailanDeivid/EDA_dados_consumidor.git)
+- [Analisando os Dados do meu Spotify](https://github.com/RailanDeivid/Analise_dados_meu_spotify)
+
+## **Portfólio Business Intelligence**
+- [Portfólio Business Intelligence](https://bit.ly/RailanDeividPortfolio)
+
+## **Tutoriais**
+- [Python Pandas: Principais funções](https://github.com/RailanDeivid/pandas_funcoes_basicas.git) 
+- [Python Pandas: Técnicas Avançadas](https://github.com/RailanDeivid/Python_Pandas_Tecnicas_avancadas) 
+- [Entendendo as funções Map() e Apply()](https://github.com/RailanDeivid/entendendo_as_funcoes_map_e_Apply) 
+- [Seleções em Data Frames Pandas](https://github.com/RailanDeivid/Selecoes-em-DataFrames-pandas) 
+
+## Contate-Me
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maykend/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Mayke:contato.maykekend@gmail.com)   
+
+## Blog
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maykekend)
+
+##
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RailanDeivid&theme=github_dark)](#)
+
+##
+![Snake animation](https://github.com/RailanDeivid/RailanDeivid/blob/output/github-contribution-grid-snake.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=railandeivid" alt="railandeivid" /> </p>
+
 
 
 
